@@ -2,6 +2,8 @@
 
 Description: A website layout page which uses CSS Grid and Flex both at the same time.
 
+(Link to the website: https://prithvirajkawade.github.io/Grid-Flex-Layout/)
+
 What i Learned from this project:
 1. How CSS Grid and flex can work together
 2. How to plan and start to design a website layout
